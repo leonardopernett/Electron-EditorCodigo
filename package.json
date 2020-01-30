@@ -1,0 +1,19 @@
+{
+  "name": "electron-myeditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron src/ ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "monaco-loader": "^0.8.2"
+  }
+}
